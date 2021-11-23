@@ -175,9 +175,9 @@ def logincolaborador():
 
 	time.sleep(1)
 
-	navegador.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div/div[4]/form/div[1]/input').send_keys("jean@eadinfinity.com")
+	navegador.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div/div[4]/form/div[1]/input').send_keys("administrador@eadinfinity.com")
 
-	navegador.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div/div[4]/form/div[2]/input').send_keys("124578")
+	navegador.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div/div[4]/form/div[2]/input').send_keys("123456")
 
 	navegador.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div/div[4]/form/button').click()
 
