@@ -1,0 +1,17 @@
+Jean, este é o teste em Python que você está fazendo!
+
+Categoria:
+informatica
+____________
+Página:
+3
+____________
+Vertical:
+4
+____________
+Horizontal:
+2
+____________
+_
+Javascript / Node Studio Treinamentos / Nível do curso: Básico
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
